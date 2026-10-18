@@ -303,7 +303,7 @@ a:focus-visible {
 
     background-color: #191c17;
 
-    background-image: url("../assets/images/tentando.svg");
+    background-image: url("../assets/Images/tentando.svg");
     background-position: 62% center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -613,15 +613,15 @@ a:focus-visible {
 }
 
 .category-bikes {
-    background-image: url("../assets/images/bike.svg");
+    background-image: url("../assets/Images/bike.svg");
 }
 
 .category-parts {
-    background-image: url("../assets/images/Pecas.svg");
+    background-image: url("../assets/Images/Pecas.svg");
 }
 
 .category-accessories {
-    background-image: url("../assets/images/acessorios.svg");
+    background-image: url("../assets/Images/acessorios.svg");
 }
 
 .category-card:hover {
@@ -774,19 +774,19 @@ a:focus-visible {
 .product-image-bike {
     background-image:
         linear-gradient(rgba(20, 22, 18, 0.12), rgba(20, 22, 18, 0.12)),
-        url("../assets/images/3.jpg");
+        url("../assets/Images/3.jpg");
 }
 
 .product-image-parts {
     background-image:
         linear-gradient(rgba(20, 22, 18, 0.12), rgba(20, 22, 18, 0.12)),
-        url("../assets/images/2.jpg");
+        url("../assets/Images/2.jpg");
 }
 
 .product-image-gear {
     background-image:
         linear-gradient(rgba(20, 22, 18, 0.12), rgba(20, 22, 18, 0.12)),
-        url("../assets/images/1.jpg");
+        url("../assets/Images/1.jpg");
 }
 
 .product-badge {
